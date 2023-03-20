@@ -4,6 +4,7 @@
     v 0.4
 
 **************************************************************/
+@import "custom-webui.css";
 
 .dynamicTable tbody tr {
     background-color: #fff;
